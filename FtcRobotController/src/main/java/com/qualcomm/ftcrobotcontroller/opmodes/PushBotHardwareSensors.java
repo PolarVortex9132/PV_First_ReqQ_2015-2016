@@ -181,7 +181,6 @@ public class PushBotHardwareSensors extends PushBotTelemetry
         // Return whether the sensor has been pressed.
         //
         return is_touch_sensor_pressed ();
-
     } // move_arm_upward_until_touch
 
     //--------------------------------------------------------------------------

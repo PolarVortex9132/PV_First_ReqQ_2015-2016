@@ -43,7 +43,6 @@ import com.qualcomm.robotcore.hardware.LED;
 import com.qualcomm.robotcore.hardware.TouchSensor;
 
 public class ColorSensorDriver extends LinearOpMode {
-
   public enum ColorSensorDevice {ADAFRUIT, HITECHNIC_NXT, MODERN_ROBOTICS_I2C};
 
   public ColorSensorDevice device = ColorSensorDevice.MODERN_ROBOTICS_I2C;
@@ -89,7 +88,7 @@ public class ColorSensorDriver extends LinearOpMode {
           Color.RGBToHSV((colorSensor.red() * 255) / 800, (colorSensor.green() * 255) / 800, (colorSensor.blue() * 255) / 800, hsvValues);
           break;
         case MODERN_ROBOTICS_I2C:
-          Color.RGBToHSV(colorSensor.red()*8, colorSensor.green()*8, colorSensor.blue()*8, hsvValues);
+          Color.RGBToHSV(colorSensor.red() * 8, colorSensor.green() * 8, colorSensor.blue() * 8, hsvValues);
           break;
       }
       telemetry.addData("Clear", colorSensor.alpha());
@@ -119,5 +118,5 @@ public class ColorSensorDriver extends LinearOpMode {
         colorSensor.enableLed(value);
         break;
     }
-  }
-}
+  }}
+

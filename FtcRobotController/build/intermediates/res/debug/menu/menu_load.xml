@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.qualcomm.ftcrobotcontroller.FtcLoadFileActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
+<!-- From: file:/Users/polarvortexrobotics/Desktop/Programming/FIRST%20ResQ%202015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/src/main/res/menu/menu_load.xml -->

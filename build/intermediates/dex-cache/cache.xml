@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="be03c1ee2c4c731033845ec1846923138dc9e0fa">
+        <dex dex="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-e341796886d776fbe611c1d0cd877c81abc241e8.jar" />
+    </item>
+    <item
+        jar="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51740db7999259bcef8a679f349034c760ceb172">
+        <dex dex="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-aae10d5729071af6268a2a2910b23e647a11e92a.jar" />
+    </item>
+    <item
+        jar="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5f9e5d9a3cadf7329bbbaea6def0fb86d3773a2">
+        <dex dex="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-442e24b4b7ddbcb1c792ac48ee537bb37cfa991c.jar" />
+    </item>
+    <item
+        jar="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="312452430a607b39b92221fbed687e458ed9c8c7">
+        <dex dex="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-f13d9b1ee28791a099329ffb26339fa9d50b29f2.jar" />
+    </item>
+    <item
+        jar="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9112d15701e2c29945597c234eb28110f3e77ddc">
+        <dex dex="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-b6eb403c498cd47ac0ef9ceb1c1ce6b8f57c0e8f.jar" />
+    </item>
+    <item
+        jar="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78166ead5f1793270fb95aff9f878f98331ac6e9">
+        <dex dex="/Users/polarvortexrobotics/Desktop/Programming/FIRST ResQ 2015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/build/intermediates/pre-dexed/debug/classes-57799f01c7c02a18c76c76315c6781297b7a4099.jar" />
+    </item>
+
+</items>

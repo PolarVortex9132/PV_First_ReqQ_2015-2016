@@ -31,6 +31,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. */
 
 package com.qualcomm.ftcrobotcontroller.opmodes;
 
+import com.qualcomm.ftcrobotcontroller.ODSThing;
+import com.qualcomm.ftcrobotcontroller.PV_FIRSTResQ_2015_2016.TouchTest;
 import com.qualcomm.robotcore.eventloop.opmode.OpModeManager;
 import com.qualcomm.robotcore.eventloop.opmode.OpModeRegister;
 
@@ -55,12 +57,14 @@ public class FtcOpModeRegister implements OpModeRegister {
      * If two or more op modes are registered with the same name, the app will display an error.
      */
 
-    manager.register("NullOp", NullOp.class);
-
-    manager.register("K9TeleOp", K9TeleOp.class);
-    manager.register ("PushBotAuto", PushBotAuto.class);
-    manager.register ("PushBotManual", PushBotManual.class);
-
+    //manager.register("NullOp", NullOp.class);
+    //manager.register("K9TeleOp", K9TeleOp.class);
+    //manager.register ("PushBotAuto", PushBotAuto.class);
+    //manager.register ("PushBotManual", PushBotManual.class);
+    manager.register("TouchTest", TouchTest.class);
+    manager.register("ColorSensor", ColorSensorDriver.class);
+    manager.register ("MRRGBExample", MRRGBExample.class);
+    manager.register ("ODSThing",ODSThing.class);
     /*
      * Uncomment any of the following lines if you want to register an op mode.
      */

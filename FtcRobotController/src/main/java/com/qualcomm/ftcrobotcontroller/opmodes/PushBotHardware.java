@@ -987,7 +987,7 @@ public class PushBotHardware extends OpMode
     /**
      * Indicate whether a message is a available to the class user.
      */
-    private boolean v_warning_generated = false;
+    public boolean v_warning_generated = false;
 
     //--------------------------------------------------------------------------
     //
@@ -996,7 +996,7 @@ public class PushBotHardware extends OpMode
     /**
      * Store a message to the user if one has been generated.
      */
-    private String v_warning_message;
+    public String v_warning_message;
 
     //--------------------------------------------------------------------------
     //
@@ -1005,7 +1005,7 @@ public class PushBotHardware extends OpMode
     /**
      * Manage the aspects of the left drive motor.
      */
-    private DcMotor v_motor_left_drive;
+    public DcMotor v_motor_left_drive;
 
     //--------------------------------------------------------------------------
     //
@@ -1014,7 +1014,7 @@ public class PushBotHardware extends OpMode
     /**
      * Manage the aspects of the right drive motor.
      */
-    private DcMotor v_motor_right_drive;
+    public DcMotor v_motor_right_drive;
 
     //--------------------------------------------------------------------------
     //
@@ -1023,7 +1023,7 @@ public class PushBotHardware extends OpMode
     /**
      * Manage the aspects of the left arm motor.
      */
-    private DcMotor v_motor_left_arm;
+    public DcMotor v_motor_left_arm;
 
     //--------------------------------------------------------------------------
     //
@@ -1032,7 +1032,7 @@ public class PushBotHardware extends OpMode
     /**
      * Manage the aspects of the left hand servo.
      */
-    private Servo v_servo_left_hand;
+    public Servo v_servo_left_hand;
 
     //--------------------------------------------------------------------------
     //
@@ -1041,6 +1041,6 @@ public class PushBotHardware extends OpMode
     /**
      * Manage the aspects of the right hand servo.
      */
-    private Servo v_servo_right_hand;
+    public Servo v_servo_right_hand;
 
 } // PushBotHardware

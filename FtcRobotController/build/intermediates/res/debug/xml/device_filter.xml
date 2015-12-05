@@ -1,0 +1,5 @@
+
+<resources>
+   <usb-device vendor-id="1027" product-id="24577" /> <!-- FT232 Modern Robotics -->
+</resources>
+<!-- From: file:/Users/polarvortexrobotics/Desktop/Programming/FIRST%20ResQ%202015-2016/PV_First_ReqQ_2015-2016/FtcRobotController/src/main/res/xml/device_filter.xml -->
